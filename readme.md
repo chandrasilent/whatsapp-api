@@ -2,6 +2,9 @@
 
 Hi, this is the implementation example of <a href="https://github.com/pedroslopez/whatsapp-web.js">whatsapp-web.js</a>
 
+Watch the tutorials:
+- 
+
 ### How to use?
 - Clone or download this repo
 - Enter to the project directory
